@@ -89,16 +89,16 @@ const config = {
     {
       company: 'BA Exchange UK',
       position: 'Sr. DevOps Engineer',
-	    from: 'March 2021',
+      from: 'March 2021',
       to: 'Present',
-      company Link: 'https://www.baexchange.co.uk/',
+      companyLink: 'https://www.baexchange.co.uk/',
     },
     {
       company: 'BRAC IT Services Limited',
       position: 'DevOps Engineer',
-	    from: 'December 2019',
+      from: 'December 2019',
       to: 'February 2021',
-      company Link: 'https://www.bracits.com/',
+      companyLink: 'https://www.bracits.com/',
     },
   ],
 
@@ -116,7 +116,6 @@ const config = {
       degree: 'B.Sc. in Computer Science & Engineering (CSE)',
       from: '2012',
       to: '2014',
-  
     },
     {
       institution: 'Institution Name',
