@@ -109,7 +109,8 @@ const config = {
     {
       institution: 'Bangladesh University of Business and Technology (BUBT)',
       degree: 'B.Sc. in Computer Science & Engineering (CSE)',
-      link: 'https://www.bubt.edu.bd/'
+      from: '2012',
+      to: '2014',
   
     },
     {
