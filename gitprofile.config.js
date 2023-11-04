@@ -85,18 +85,23 @@ const config = {
   
     
   ],
-  experiences: [
+    experiences: [
     {
       company: 'BA Exchange UK',
       position: 'Sr. DevOps Engineer',
+	    from: 'March 2021',
+      to: 'Present',
       company Link: 'https://www.baexchange.co.uk/',
     },
     {
       company: 'BRAC IT Services Limited',
       position: 'DevOps Engineer',
+	    from: 'December 2019',
+      to: 'February 2021',
       company Link: 'https://www.bracits.com/',
     },
   ],
+
   /* certifications: [
     {
       name: 'Lorem ipsum',
