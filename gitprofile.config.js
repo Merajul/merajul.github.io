@@ -19,8 +19,8 @@ const config = {
     youtube: '', // example: ''
     dribbble: '',
     behance: '',
-    medium: '',
-    dev: '',
+    medium: 'dawnmerajul',
+    dev: 'merajul',
     stackoverflow: '', // example: '1/jeff-atwood'
     skype: '',
     telegram: '',
