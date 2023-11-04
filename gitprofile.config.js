@@ -220,7 +220,7 @@ const config = {
 
   // Optional Footer. Supports plain text or HTML.
   footer: `Made with <a 
-      class="text-primary" href="https://github.com/merajul.github.io"
+      class="text-primary" href="https://www.linkedin.com/in/md-merajul-islam-989a58114/"
       target="_blank"
       rel="noreferrer"
     >GitProfile</a> and ❤️`,
