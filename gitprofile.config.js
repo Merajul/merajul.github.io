@@ -2,7 +2,7 @@
 
 const config = {
   github: {
-    username: 'arifszn', // Your GitHub org/user name. (Required)
+    username: 'merajul', // Your GitHub org/user name. (Required)
     sortBy: 'stars', // stars | updated
     limit: 10, // How many projects to display.
     exclude: {
@@ -11,22 +11,22 @@ const config = {
     },
   },
   social: {
-    linkedin: 'ariful-alam',
-    twitter: 'arif_szn',
-    mastodon: 'arifszn@mastodon.social',
-    facebook: '',
+    linkedin: 'md-merajul-islam-989a58114',
+    twitter: '',
+    mastodon: '',
+    facebook: 'dawn.merajul',
     instagram: '',
-    youtube: '', // example: 'pewdiepie'
+    youtube: '', // example: ''
     dribbble: '',
     behance: '',
-    medium: 'arifszn',
-    dev: 'arifszn',
+    medium: '',
+    dev: '',
     stackoverflow: '', // example: '1/jeff-atwood'
     skype: '',
     telegram: '',
-    website: 'https://arifszn.com',
+    website: 'merajul.github.io',
     phone: '',
-    email: 'arifulalamszn@gmail.com',
+    email: 'dawnmerajul@gmail.com',
   },
   resume: {
     fileUrl:
