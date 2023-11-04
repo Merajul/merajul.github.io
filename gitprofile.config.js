@@ -86,42 +86,44 @@ const config = {
     
   ],
     experiences: [
-    {
-      company: 'BA Exchange UK',
-      position: 'Sr. DevOps Engineer',
-      from: 'March 2021',
-      to: 'Present',
-      companyLink: 'https://www.baexchange.co.uk/',
-    },
-    {
+      {
       company: 'BRAC IT Services Limited',
       position: 'DevOps Engineer',
-      from: 'December 2019',
-      to: 'February 2021',
+      from: 'March 2020',
+      to: 'Present',
       companyLink: 'https://www.bracits.com/',
     },
+       
+      {
+      company: 'Famed Technologies Limited',
+      position: 'Sr. Software Engineer',
+      from: 'June 2018',
+      to: 'February 2020',
+      companyLink: 'https://www.famedbd.com/',
+    },
+  
   ],
 
-  /* certifications: [
+  certifications: [
     {
-      name: 'Lorem ipsum',
-      body: 'Lorem ipsum dolor sit amet',
-      year: 'March 2022',
-      link: 'https://example.com'
+      name: 'CNSS Certified Network Security Specialist',
+      body: 'ICSI (International CyberSecurity Institute), UK',
+      year: 'July 9, 2020',
+      link: 'https://www.credential.net/a8a73dd5-8b5e-4881-87c3-90fa68927b87#gs.0ieuoe'
     },
-  ], */
+  ], 
   education: [
     {
       institution: 'Bangladesh University of Business and Technology (BUBT)',
       degree: 'B.Sc. in Computer Science & Engineering (CSE)',
-      from: '2012',
-      to: '2014',
+      from: '2016',
+      to: '2020',
     },
     {
-      institution: 'Institution Name',
-      degree: 'Degree',
+      institution: 'Feni Computer Institute',
+      degree: 'Diploma in Data Telecommunication And Network Technology',
       from: '2012',
-      to: '2014',
+      to: '2016',
     },
   ],
 
@@ -218,7 +220,7 @@ const config = {
 
   // Optional Footer. Supports plain text or HTML.
   footer: `Made with <a 
-      class="text-primary" href="https://github.com/meraju.github.io"
+      class="text-primary" href="https://github.com/merajul.github.io"
       target="_blank"
       rel="noreferrer"
     >GitProfile</a> and ❤️`,
